@@ -1,7 +1,7 @@
 # Investment_Visualizations
 
 
-Welcome to the Finance Data Analysis project! In this project, Cheif aim to explore and analyze financial data with a focus on age, gender, and investments. 
+Welcome to the Finance Data Analysis project! In this project, Cheif aim to explore and analyze financial data with a focus on age, gender, and investments to create visualizations for your viewing.
 
 This data was collected through google forms
 
